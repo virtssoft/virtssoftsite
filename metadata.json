@@ -1,0 +1,8 @@
+{
+  "name": "Virtssoft Technologies",
+  "description": "A premium, Apple-inspired tech platform for Virtssoft, featuring hardware stores, software services, cloud accounts, and innovation hubs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
